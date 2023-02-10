@@ -138,6 +138,7 @@ class Tag
 			'DOTTAB' => 'DotTab',
 			'FIELDSET' => 'FieldSet',
 			'FIGCAPTION' => 'FigCaption',
+			'FIRMAS' => 'Firmas',
 			'FORMFEED' => 'FormFeed',
 			'HGROUP' => 'HGroup',
 			'INDEXENTRY' => 'IndexEntry',
